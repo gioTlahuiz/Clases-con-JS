@@ -42,5 +42,5 @@ export class Player {
     player.addInventory("Tenis");
     player.removeInventory("Socks");
   
-    player.printInventory();   // ["Grog", "Vex"]
+    player.printInventory();   
   }
